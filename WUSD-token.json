@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "4ujXDK9mpK3tvz4PnXsopQC53PRLxpKRC4mkkogUmS9q",
+  "symbol": "WUSD",
+  "name": "Wrapped USD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/kasmaee6432/WUSD-token/refs/heads/main/DALL%C2%B7E%202024-10-24%2012.27.19%20-%20A%20cryptocurrency%20token%20logo%20for%20a%20fictional%20token%20named%20WUSD%2C%20inspired%20by%20Tether%20(USDT)%20but%20with%20a%20unique%20twist.%20The%20design%20features%20a%20bold%20'W'%20in%20the.webp",
+  "tags": ["stablecoin"]
+}
